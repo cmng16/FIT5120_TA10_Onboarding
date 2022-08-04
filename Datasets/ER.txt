@@ -1,0 +1,21 @@
+Entity relationship  attributes required
+
+location
+cityid
+timezone
+latitude and longitude
+
+
+maxuv index
+uv levels
+uv id
+
+
+timestamp
+city_id
+uv id
+t_solar_rad
+max_uv
+
+
+
